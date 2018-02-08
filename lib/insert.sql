@@ -18,3 +18,14 @@ INSERT INTO users (name, age) VALUES ("Jed", 20);
 INSERT INTO users (name, age) VALUES ("Scott", 39);
 INSERT INTO users (name, age) VALUES ("Ken", 55);
 INSERT INTO users (name, age) VALUES ("Odi", 57);
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Do", "Tech", 5000, 1.25, 2.25);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Rey", "Science", 1000, 2.25, 3.25);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Mi", "Writing", 15000, 1.23, 2.15);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Fa", "Science", 11000, 12.25, 3.2);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("So", "Sports", 25000, 11.25, 12.25);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("La", "Architecture", 211000, 4.25, 5.28);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Ti", "Writing", 2000, 11.23, 3.15);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Da", "Science", 711000, 2.25, 7.2);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Meh", "Math", 90000, 6.23, 8.15);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dah", "Science", 91000, 5.25, 7.2);
