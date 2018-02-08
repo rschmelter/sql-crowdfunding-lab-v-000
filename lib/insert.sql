@@ -18,4 +18,3 @@ INSERT INTO users (name, age) VALUES ("Jed", 20);
 INSERT INTO users (name, age) VALUES ("Scott", 39);
 INSERT INTO users (name, age) VALUES ("Ken", 55);
 INSERT INTO users (name, age) VALUES ("Odi", 57);
-
